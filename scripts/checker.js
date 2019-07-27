@@ -35,5 +35,5 @@
         }
 
         str.value = ' ';
-        result.style.visibility ='hidden';
+        
     }
