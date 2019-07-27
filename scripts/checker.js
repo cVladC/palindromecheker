@@ -30,7 +30,7 @@
             result.textContent = 'Your string: ' + str.value + ' is a palindrome';
             result.style.backgroundColor = 'greenyellow';
         } else {
-            result.textContent = 'Your string is not a palindrome'+ 'the reverse string is: '+b.join(',');
+            result.textContent = 'Your string is not a palindrome';
             result.style.backgroundColor = '#ff7c70';
         }
 
